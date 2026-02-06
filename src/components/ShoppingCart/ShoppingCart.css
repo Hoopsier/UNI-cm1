@@ -1,0 +1,30 @@
+.itemShelf{
+    border: solid 3px;
+    border-radius: 10px;
+    width: 50vh;
+    
+}li
+
+.itemData{
+    
+    border-bottom: solid black;
+    width: 30vh;
+    margin: 10px;
+    padding-left: 20px;
+    
+}
+
+.item{
+    color: rgb(14, 43, 171);
+    
+
+}
+
+.itemButton {
+    height: 30px;
+    width: 70px;
+    margin-top: 10px;
+    background-color: rgb(244, 200, 200);
+   
+
+}
